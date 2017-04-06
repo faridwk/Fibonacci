@@ -11,7 +11,7 @@ public class Fibonacci{
 			fib[i] = fib[i-1]+fib[i-2];
 		}
 		for (int i = 0; i<n; i++){
-			System.out.print(fib[i] + " ");
+			System.out.print("Jawabannya :" fib[i] + " ");
 		}
 	}
 }
